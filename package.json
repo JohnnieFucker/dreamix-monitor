@@ -1,0 +1,19 @@
+{
+  "name": "dreamix-monitor",
+  "version": "1.0.0",
+  "description": "dreamix-monitor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnieFucker/dreamix-monitor.git"
+  },
+  "keywords": [
+    "monitor"
+  ],
+  "author": "Shine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnieFucker/dreamix-monitor/issues"
+  },
+  "homepage": "https://github.com/JohnnieFucker/dreamix-monitor#readme"
+}
